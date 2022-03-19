@@ -7,5 +7,5 @@ sed 's/Cocko/Куку/g' tempfile.txt | head -n 3 >>file3.txt;rm tempfile.txt; s
 uniq -c file3.txt; temp.txt>file3.txt; cat temp.txt>file3.txt; rm temp.txt
 </code>
 </pre>
-## Результат работы
-<img src="bash_lab_1.png"></img>
+## Скрин консоли
+<img src="bash_1.png"></img>
